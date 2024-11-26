@@ -131,3 +131,6 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_HOST_USER = 'rmfosem0202@gmail.com'
 EMAIL_HOST_PASSWORD = 'ygil ggjy eaiq frnn' #구글 앱 비밀번호
+
+
+# DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
